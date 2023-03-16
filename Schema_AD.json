@@ -1,0 +1,43 @@
+{
+    "domain": "hamza.lab",
+
+    "groups" : [
+        {
+            "name": "IT"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name":"RH"
+        }
+    ],
+
+    "users": [
+
+        {
+            
+            "name": "Eliot Lhacker",
+            "password":"bubbles",
+            "groups": [
+                "IT"
+            ]
+        },
+        {
+           
+            "name": "Diana Lmarketoura",
+            "password":"ashley",
+            "groups": [
+                "Marketing"
+            ]
+        },
+        {
+            
+            "name": "Maryam MolatRH",
+            "password":"P@ssw0rdABC",
+            "groups": [
+                "RH"
+            ]
+        }
+    ]
+}
